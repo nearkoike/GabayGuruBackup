@@ -1,0 +1,247 @@
+[
+  { 
+    "id": 1, 
+    "name": "John Doe", 
+    "rating": 3.2, 
+    "rate": 2500, 
+    "avatar": "https://via.placeholder.com/250",
+    "description": "Experienced web developer specializing in frontend technologies.",
+    "category": "Technology and IT",
+    "subcategory": "Programming Fundamentals",
+    "experience": 5
+  },
+  { 
+    "id": 2, 
+    "name": "Jane Smith", 
+    "rating": 4.1, 
+    "rate": 3200, 
+    "avatar": "https://via.placeholder.com/250",
+    "description": "Seasoned UX designer with a passion for creating delightful user experiences.",
+    "category": "Business and Entrepreneurship",
+    "subcategory": "Business Planning and Strategy",
+    "experience": 6
+  },
+  { 
+    "id": 3, 
+    "name": "Near Koike", 
+    "rating": 3.9, 
+    "rate": 3500, 
+    "avatar": "https://via.placeholder.com/250",
+    "description": "Expert in machine learning and artificial intelligence.",
+    "category": "Technology and IT",
+    "subcategory": "Web Development",
+    "experience": 4
+  },
+  
+    {
+      "id": 4,
+      "name": "Michael Johnson",
+      "rating": 2.8,
+      "rate": 3800,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Seasoned full-stack developer with expertise in React and Node.js.",
+      "category": "Technology and IT",
+      "subcategory": "Web Development",
+      "experience": 3
+    },
+    {
+      "id": 5,
+      "name": "Alice Roberts",
+      "rating": 4.3,
+      "rate": 2700,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced data scientist specializing in predictive analytics and machine learning algorithms.",
+      "category": "Technology and IT",
+      "subcategory": "Data Science and Machine Learning",
+      "experience": 6
+    },
+    {
+      "id": 6,
+      "name": "David Brown",
+      "rating": 3.6,
+      "rate": 3100,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Expert cybersecurity analyst with a focus on threat detection and incident response.",
+      "category": "Technology and IT",
+      "subcategory": "Cybersecurity",
+      "experience": 5
+    },
+    {
+      "id": 7,
+      "name": "Sophia Lee",
+      "rating": 4.5,
+      "rate": 2900,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Skilled mobile app developer proficient in iOS and Android development.",
+      "category": "Technology and IT",
+      "subcategory": "Mobile App Development",
+      "experience": 4
+    },
+    {
+      "id": 8,
+      "name": "Alex Green",
+      "rating": 3.7,
+      "rate": 3700,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced cloud architect with expertise in AWS and Azure.",
+      "category": "Technology and IT",
+      "subcategory": "Cloud Computing (e.g., AWS, Azure)",
+      "experience": 2
+    },
+    {
+      "id": 9,
+      "name": "Emily White",
+      "rating": 3.2,
+      "rate": 4000,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Skilled database administrator proficient in SQL and database optimization.",
+      "category": "Technology and IT",
+      "subcategory": "Database Management (SQL)",
+      "experience": 3
+    },
+    {
+      "id": 10,
+      "name": "Daniel Evans",
+      "rating": 3.9,
+      "rate": 3300,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced IT project manager with a track record of successful project deliveries.",
+      "category": "Technology and IT",
+      "subcategory": "IT Project Management",
+      "experience": 6
+    },
+    {
+      "id": 11,
+      "name": "Olivia Clark",
+      "rating": 4.2,
+      "rate": 2000,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced business strategist specializing in market analysis and strategic planning.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Marketing and Digital Marketing",
+      "experience": 2
+    },
+    {
+      "id": 12,
+      "name": "William Turner",
+      "rating": 4.0,
+      "rate": 2600,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Expert financial analyst with expertise in financial modeling and risk management.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Financial Management",
+      "experience": 4
+    },
+    {
+      "id": 13,
+      "name": "Emma Martinez",
+      "rating": 4.5,
+      "rate": 2800,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced entrepreneur with a successful track record of building and scaling startups.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Start-up Fundamentals",
+      "experience": 3
+    },
+    {
+      "id": 14,
+      "name": "James Wilson",
+      "rating": 3.8,
+      "rate": 3900,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "E-commerce specialist with expertise in online retail strategies and conversion optimization.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "E-commerce and Online Retail",
+      "experience": 5
+    },
+    {
+      "id": 15,
+      "name": "Grace Martinez",
+      "rating": 3.7,
+      "rate": 2300,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced business ethics consultant with a focus on corporate responsibility and sustainability.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Business Ethics and Sustainability",
+      "experience": 2
+    },
+    {
+      "id": 16,
+      "name": "Lucas Johnson",
+      "rating": 3.3,
+      "rate": 1800,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Skilled leadership coach with expertise in team building and organizational development.",
+      "category": "Business and Entrepreneurship",
+      "subcategory": "Leadership and Management",
+      "experience": 6
+    },
+    {
+      "id": 17,
+      "name": "Isabella Brown",
+      "rating": 3.0,
+      "rate": 1700,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Skilled graphic designer proficient in Adobe Photoshop and Illustrator.",
+      "category": "Creative Arts and Design",
+      "subcategory": "Graphic Design (Adobe Photoshop, Illustrator)",
+      "experience": 4
+    },
+    {
+      "id": 18,
+      "name": "Lucas Garcia",
+      "rating": 4.1,
+      "rate": 1800,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Experienced video editor and producer with a portfolio of high-quality video content.",
+      "category": "Creative Arts and Design",
+      "subcategory": "Video Editing and Production",
+      "experience": 5
+    },
+    {
+      "id": 19,
+      "name": "Mia Robinson",
+      "rating": 3.5,
+      "rate": 3200,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Passionate about music composition and production, with experience in creating original music for various projects.",
+      "category": "Creative Arts and Design",
+      "subcategory": "Music Composition and Production",
+      "experience": 3
+    },
+    {
+      "id": 20,
+      "name": "Noah Brown",
+      "rating": 4.2,
+      "rate": 2800,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Expert UI/UX designer with a focus on creating intuitive and user-friendly interfaces.",
+      "category": "Creative Arts and Design",
+      "subcategory": "UI/UX Design",
+      "experience": 6
+    },
+    {
+      "id": 21,
+      "name": "Ethan Davis",
+      "rating": 3.4,
+      "rate": 1700,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Skilled 3D modeler and animator with expertise in character design and animation.",
+      "category": "Creative Arts and Design",
+      "subcategory": "3D Modeling and Animation",
+      "experience": 2
+    },
+    {
+      "id": 22,
+      "name": "Ava Rodriguez",
+      "rating": 3.9,
+      "rate": 1900,
+      "avatar": "https://via.placeholder.com/250",
+      "description": "Creative writer with a knack for storytelling and content creation across various genres.",
+      "category": "Creative Arts and Design",
+      "subcategory": "Creative Writing",
+      "experience": 4
+    }
+  ]
+  
+

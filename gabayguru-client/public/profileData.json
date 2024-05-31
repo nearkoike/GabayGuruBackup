@@ -1,0 +1,13 @@
+{
+  "id":1,
+  "avatar": "https://via.placeholder.com/150",
+  "name": "John Doe",
+  "profession": "Software Engineer",
+  "experienceYears": 5,
+  "bio": "A passionate software engineer with a love for creating innovative solutions.",
+  "workExperience": "Worked at ABC Company and XYZ Corp.",
+  "specialization": "CSS, HTML, MERN",
+  "expertise": "Expert in JavaScript, React, and AWS.",
+  "ratings": "5 stars from 10 reviews",
+  "rate": 5000
+}

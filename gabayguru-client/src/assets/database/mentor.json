@@ -1,0 +1,113 @@
+[
+    {
+      "MentorID": 1,
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Email": "john.doe@example.com",
+      "Password": "hashedPassword123",
+      "ContactNumber": "123-456-7890",
+      "Expertise": [
+        "Software Development",
+        "Web Development"
+      ],
+      "Bio": "Experienced software engineer with a passion for teaching.",
+      "WorkExperience": "10+ years of experience",
+      "ProfilePicture": "https://example.com/john_doe_profile.jpg",
+      "Availability": [
+        "Monday 10:00 AM - 12:00 PM",
+        "Wednesday 2:00 PM - 4:00 PM"
+      ],
+      "Rate": 50,
+      "Rating": 4.8,
+      "Credentials": [
+        "Bachelor's Degree in Computer Science",
+        "Certified Scrum Master"
+      ],
+      "GovernmentID": "ABC123456789",
+      "ReviewsNum": "12",
+      "SessionsNum": "15"
+    },
+    {
+      "MentorID": 2,
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Email": "jane.smith@example.com",
+      "Password": "hashedPassword456",
+      "ContactNumber": "987-654-3210",
+      "Expertise": [
+        "Data Science",
+        "Machine Learning"
+      ],
+      "Bio": "Data scientist with a focus on predictive modeling.",
+      "WorkExperience": "8+ years of experience",
+      "ProfilePicture": "https://example.com/jane_smith_profile.jpg",
+      "Availability": [
+        "Tuesday 9:00 AM - 11:00 AM",
+        "Thursday 3:00 PM - 5:00 PM"
+      ],
+      "Rate": 60,
+      "Rating": 4.9,
+      "Credentials": [
+        "Master's Degree in Data Science",
+        "Certified TensorFlow Developer"
+      ],
+      "GovernmentID": "DEF987654321",
+      "ReviewsNum": "13",
+      "SessionsNum": "16"
+    },
+    {
+      "MentorID": 3,
+      "FirstName": "David",
+      "LastName": "Brown",
+      "Email": "david.brown@example.com",
+      "Password": "hashedPassword789",
+      "ContactNumber": "111-222-3333",
+      "Expertise": [
+        "Mobile App Development",
+        "iOS Development"
+      ],
+      "Bio": "iOS developer specializing in Swift and SwiftUI.",
+      "WorkExperience": "6+ years of experience",
+      "ProfilePicture": "https://example.com/david_brown_profile.jpg",
+      "Availability": [
+        "Monday 1:00 PM - 3:00 PM",
+        "Wednesday 10:00 AM - 12:00 PM"
+      ],
+      "Rate": 55,
+      "Rating": 4.7,
+      "Credentials": [
+        "Apple Certified iOS Developer"
+      ],
+      "GovernmentID": "GHI111222333",
+      "ReviewsNum": "15",
+      "SessionsNum": "15"
+    },
+    {
+      "MentorID": 4,
+      "FirstName": "Emily",
+      "LastName": "Johnson",
+      "Email": "emily.johnson@example.com",
+      "Password": "hashedPasswordabc",
+      "ContactNumber": "444-555-6666",
+      "Expertise": [
+        "Graphic Design",
+        "UI/UX Design"
+      ],
+      "Bio": "Passionate designer with a focus on user-centered design principles.",
+      "WorkExperience": "7+ years of experience",
+      "ProfilePicture": "https://example.com/emily_johnson_profile.jpg",
+      "Availability": [
+        "Tuesday 10:00 AM - 12:00 PM",
+        "Thursday 2:00 PM - 4:00 PM"
+      ],
+      "Rate": 65,
+      "Rating": 4.6,
+      "Credentials": [
+        "Bachelor's Degree in Graphic Design",
+        "Certified UX Designer"
+      ],
+      "GovernmentID": "JKL444555666",
+      "ReviewsNum": "15",
+      "SessionsNum": "16"
+    }
+  ]

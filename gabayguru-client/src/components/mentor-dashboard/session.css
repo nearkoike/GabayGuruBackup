@@ -1,0 +1,48 @@
+.status-completed,
+.status-incoming,
+.status-cancelled {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 1px;
+  color: white;
+  border-radius: 9999px;
+  font-weight: 500;
+}
+
+.status-completed {
+  background-color: #16A435;
+}
+
+.status-incoming {
+  background-color: #FFBC1D;
+}
+
+.status-cancelled {
+  background-color: red;
+}
+
+
+.session-history {
+  margin: 0 auto; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /*spacing*/
+  td,
+  th {
+    padding: 10px 10px;
+  }
+}
+
+.custom-table table {
+    width: 95%;
+  }
+  
+  .custom-table table tbody tr:not(:last-child) {
+    border-bottom: 1px solid #ccc; /* Separator */
+  }
+  .text {
+    font-size: 35px; /*font size*/
+  }

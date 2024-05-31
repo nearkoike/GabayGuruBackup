@@ -1,0 +1,64 @@
+{
+  "ratings": [
+    {
+      "rating": 5,
+      "review": "Excellent work! John is highly skilled and professional.",
+      "date": "2024-04-30",
+      "nickname": "Sarah"
+    },
+    {
+      "rating": 4,
+      "review": "Great service, would definitely recommend!",
+      "date": "2024-04-22",
+      "nickname": "Dave"
+    },
+    {
+      "rating": 5,
+      "review": "John exceeded all expectations. Very satisfied with his work.",
+      "date": "2024-04-15",
+      "nickname": "Emma"
+    },
+    {
+      "rating": 3,
+      "review": "Good enough but needs improvement on deadlines.",
+      "date": "2024-04-10",
+      "nickname": "Mia"
+    },
+    {
+      "rating": 5,
+      "review": "Absolutely fantastic job! Will hire again.",
+      "date": "2024-04-05",
+      "nickname": "Lucas"
+    },
+    {
+      "rating": 2,
+      "review": "The project was completed, but not to my expectations.",
+      "date": "2024-03-30",
+      "nickname": "Olivia"
+    },
+    {
+      "rating": 4,
+      "review": "Very professional and reliable. Good quality work.",
+      "date": "2024-03-25",
+      "nickname": "Ethan"
+    },
+    {
+      "rating": 4,
+      "review": "John is knowledgeable and skillful, though a bit pricey.",
+      "date": "2024-03-20",
+      "nickname": "Sophia"
+    },
+    {
+      "rating": 5,
+      "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum lacus ut accumsan finibus. Praesent commodo quis odio et faucibus. Vivamus sollicitudin, justo non ullamcorper convallis, felis velit sodales tellus, non lobortis nisl metus sed enim. Nunc congue ornare mi, in finibus est faucibus id.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum lacus ut accumsan finibus. Praesent commodo quis odio et faucibus. Vivamus sollicitudin, justo non ullamcorper convallis, felis velit sodales tellus, non lobortis nisl metus sed enim. Nunc congue ornare mi, in finibus est faucibus id. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vestibulum lacus ut accumsan finibus. Praesent commodo quis odio et faucibus. Vivamus sollicitudin, justo non ullamcorper convallis, felis velit sodales tellus, non lobortis nisl metus sed enim. Nunc congue ornare mi, in finibus est faucibus id.",
+      "date": "2024-03-15",
+      "nickname": "Jackson"
+    },
+    {
+      "rating": 3,
+      "review": "Decent work but could be better. Communication was an issue.",
+      "date": "2024-03-10",
+      "nickname": "Ava"
+    }
+  ]
+}
